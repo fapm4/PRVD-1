@@ -1,0 +1,6 @@
+pandas
+requests
+ipykernel
+beautiufulsoup4
+plotly
+nbformat
