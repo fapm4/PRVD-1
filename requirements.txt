@@ -4,3 +4,5 @@ ipykernel
 beautiufulsoup4
 plotly
 nbformat
+pymupdf
+tabula-py
