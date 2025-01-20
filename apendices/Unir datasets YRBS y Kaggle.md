@@ -20,4 +20,4 @@ Mapping:
 | Q28      | Q29      |                 | Attempt suicide in last 12 months                                      |                        |
 | Q41      | Q42      |                 | Alcohol in the past 30 days                                            |                        |
 |          | Q87      |                 | Rendimiento académico en los ultimos 12 meses                          |                        |
-|          | '2023'   | Year(timestamp) | Año                                                                    |                        |
+|  '2022'  | '2023'   | Year(timestamp) | Año                                                                    |                        |
